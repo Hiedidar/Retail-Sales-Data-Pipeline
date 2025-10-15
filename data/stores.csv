@@ -1,0 +1,13 @@
+store_id,store_name,city,region
+S101,Store 1,Lagos,West
+S102,Store 2,Abuja,South
+S103,Store 3,Port Harcourt,North
+S104,Store 4,Kano,West
+S105,Store 5,Benin City,North
+S106,Store 6,Ibadan,West
+S107,Store 7,Enugu,North
+S108,Store 8,Jos,South
+S109,Store 9,Uyo,East
+S110,Store 10,Calabar,South
+S111,Store 11,Abeokuta,East
+S112,Store 12,Warri,North
